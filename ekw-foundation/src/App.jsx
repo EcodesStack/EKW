@@ -21,7 +21,7 @@ import Footer from "./Components/Footer";
 const App = () => {
   return (
     <div
-      className="min-h-screen bg-fixed bg-cover bg-center"
+      className="min-h-screen bg-fixed bg-cover bg-center overflow-x-hidden"
       style={{ backgroundImage: `url(${overlayImg})` }}
     >
       <div className="bg-black/70 min-h-screen">
