@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import hopeImg from '../assets/hope.png';
+import hopeImg from '../assets/hopeImg.png';
 import nurturingImg from '../assets/nurturing.png';
 import economyImg from '../assets/economy.png';
 import learnImg from '../assets/learn.png';
