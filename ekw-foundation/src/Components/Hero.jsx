@@ -24,7 +24,7 @@ const Hero = () => {
     <div
       ref={ref}
       style={{ backgroundImage: `url(${heroImg})` }}
-      className="px-16 sm:px-20 xl:px-32 relative inline-flex flex-col w-full justify-center bg-cover bg-no-repeat min-h-screen"
+      className="px-8 sm:px-20 xl:px-32 relative inline-flex flex-col w-full justify-center bg-cover bg-no-repeat min-h-screen"
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-[#FEFAEF] opacity-80 z-0"></div>

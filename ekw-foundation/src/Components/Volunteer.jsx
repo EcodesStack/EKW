@@ -51,7 +51,7 @@ const Volunteer = () => {
     <section
       id="volunteer"
       ref={sectionRef}
-      className="relative py-14 px-4 sm:px-6 md:px-12"
+      className="relative py-8 px-4 sm:px-6 md:px-12"
     >
       <div className="max-w-7xl mx-auto px-12 sm:px-6 md:px-12 grid grid-cols-1 md:grid-cols-2 gap-10">
         {/* Left Column */}

@@ -40,7 +40,7 @@ const OurVision = () => {
     <section
       id="our-vision"
       ref={sectionRef}
-      className="py-20 px-10 sm:px-10 md:px-16 bg-[#FEFAEF] overflow-hidden"
+      className="py-4 px-10 sm:px-10 md:px-16 bg-[#FEFAEF] overflow-hidden"
     >
       <div className="max-w-7xl mx-auto px-6 sm:px-10 md:px-12">
         <div

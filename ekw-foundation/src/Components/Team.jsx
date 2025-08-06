@@ -86,7 +86,7 @@ const Team = () => {
   const { ref, inView } = useInView({ threshold: 0.1 });
 
   return (
-    <section className="py-20 px-12 md:px-24 bg-[#FEFAEF] text-[#472C1B]" id="team" ref={sectionRef}>
+    <section className="py-20 px-4 md:px-24 bg-[#FEFAEF] text-[#472C1B]" id="team" ref={sectionRef}>
       <div className="max-w-7xl mx-auto text-center" ref={ref}>
         <motion.h2
           key={inView ? "visible" : "hidden"}

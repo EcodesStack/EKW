@@ -50,7 +50,7 @@ const Missions = () => {
   }, []);
 
   return (
-    <div className="px-18 py-2" ref={cardsRef}>
+    <div className="px-4 py-2" ref={cardsRef}>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {programs.map((program, idx) => (
           <div

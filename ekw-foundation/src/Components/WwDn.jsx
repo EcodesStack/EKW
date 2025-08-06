@@ -43,7 +43,7 @@ const WwDn = () => {
         initial="hidden"
         animate={inView ? 'visible' : 'hidden'}
         exit="exit"
-        className='bg-[#F9B457] text-[#472C1B] py-10 sm:py-20 px-4 sm:px-6 md:px-12 text-center relative z-10 -mt-24 shadow-md mx-auto max-w-xs sm:max-w-7xl rounded-xl'
+        className='bg-[#F9B457] text-[#472C1B] py-10 sm:py-20 px-4 sm:px-6 md:px-12 text-center relative z-10 -mt-24 shadow-md mx-auto max-w-xs sm:max-w-7xl'
       >
         <motion.div
           variants={{

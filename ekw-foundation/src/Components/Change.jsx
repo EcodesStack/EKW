@@ -32,7 +32,7 @@ const items = [
 const Change = () => {
   return (
     <section
-      className="py-12 px-12 sm:px-6 md:px-12 bg-[#F9B457]"
+      className="py-12 px-4 sm:px-6 md:px-12 bg-[#F9B457]"
       id="change"
     >
       <div className="max-w-7xl mx-auto text-center px-4 sm:px-6 md:px-12">

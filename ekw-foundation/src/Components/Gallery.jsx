@@ -8,7 +8,7 @@ import img6 from '../assets/3.png';
 
 const Gallery = () => {
   return (
-    <section className="w-full px-12 -mt-[300px] pb-8 z-10 relative">
+    <section className="w-full px-4 -mt-[300px] pb-8 z-10 relative">
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {[img1, img2, img3, img4, img5, img6].map((img, index) => (
           <div
